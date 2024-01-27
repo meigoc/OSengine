@@ -1,0 +1,12 @@
+[main]
+core=1.0
+
+[user]
+width=1920
+height=1080
+dpi=81
+vw=1920
+vh=1032
+osName=Windows 11
+userName=woerc
+
